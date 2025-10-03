@@ -1,9 +1,9 @@
 # Song Swipe
 
 ## Descripción del Proyecto
-Song Swipe es una aplicación móvil orientada al descubrimiento musical, inspirada en la dinámica de swipe de aplicaciones como Tinder.  
+Song Swipe es una aplicación móvil orientada al descubrimiento musical, inspirada en la dinámica de swipe.  
 La experiencia se centra en que el usuario pueda descubrir nuevas canciones de manera rápida y divertida: deslizando para indicar sus preferencias, creando playlists personalizadas y compartiéndolas con amigos.  
-En el futuro, la aplicación integrará la API de Spotify para adaptar la experiencia a los gustos reales del usuario y ofrecer recomendaciones más precisas.
+La aplicación integrará la API de Spotify para adaptar la experiencia a los gustos reales del usuario y ofrecer recomendaciones más precisas.
 
 ## Quiénes somos
 - **Equipo**: 8 estudiantes del ciclo formativo de grado superior en Desarrollo de Aplicaciones Multiplataforma (ILERNA).
