@@ -16,5 +16,6 @@ En este apartado se documentará cómo clonar el repositorio, configurar depende
 
 **[En construcción]**
 
+
 ### 👉 Documentación completa:
-Toda la información del proyecto (backlog, arquitectura, diseño UX/UI, acuerdos de equipo) en [ Notion | SongSwipe]([url](https://www.notion.so/SongSwipe-271556c26f6980db9e17c2f8e2557e59))
+Toda la información del proyecto (backlog, arquitectura, diseño UX/UI, acuerdos de equipo) en [Notion | SongSwipe](https://www.notion.so/SongSwipe-271556c26f6980db9e17c2f8e2557e59 "Notion | SongSwipe")
