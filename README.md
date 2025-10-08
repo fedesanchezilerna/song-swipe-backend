@@ -7,6 +7,30 @@ La aplicación integrará la API de Spotify para adaptar la experiencia a los gu
 
 ## Quiénes somos
 - **Equipo**: 8 estudiantes del ciclo formativo de grado superior en Desarrollo de Aplicaciones Multiplataforma (ILERNA).
+Cada miembro tendrá asignado un rol específico:
+    - **Product Owner**:
+        - x
+        - x
+    - **Scrum Master**:
+        - x
+    - **Software Architect**:
+        - Federico Sánchez Vidarte
+        - x
+    - **UX/UI Designer**:
+        - x
+        - x
+        - x
+    - **Frontend Developers**:
+        - x
+        - x
+        - x
+    - **Backend Developers**:
+        - x
+        - x
+        - x
+    - **DevOps**: 
+        - Federico Sánchez Vidarte
+        - x
 - **Propósito académico**: Aplicar conocimientos de desarrollo móvil multiplataforma, arquitectura de software y metodologías ágiles.
 - **Metodología de trabajo**: Uso de backlog en Notion, control de versiones en GitHub/GitLab, y acuerdos de equipo documentados.
 
