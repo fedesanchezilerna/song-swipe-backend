@@ -15,13 +15,13 @@ Cada miembro tendrá asignado un rol específico:
         - x
     - **Software Architect**:
         - Federico Sánchez Vidarte
-        - x
+        - Sara Martínez Bascuas
     - **UX/UI Designer**:
         - x
         - x
         - x
     - **Frontend Developers**:
-        - x
+        - Sara Martínez Bascuas
         - x
         - x
     - **Backend Developers**:
