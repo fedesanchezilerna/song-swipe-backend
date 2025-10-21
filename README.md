@@ -1,4 +1,4 @@
-# Song Swipe
+# Song Swipe (Backend)
 
 ## Descripción del Proyecto
 Song Swipe es una aplicación móvil orientada al descubrimiento musical, inspirada en la dinámica de swipe.  
