@@ -12,7 +12,7 @@ Cada miembro tendrá asignado un rol específico:
         - x
         - x
     - **Scrum Master**:
-        - x
+        - Kevin Nahuel Ramírez Murieda
     - **Software Architect**:
         - Federico Sánchez Vidarte
         - Sara Martínez Bascuas
@@ -30,7 +30,7 @@ Cada miembro tendrá asignado un rol específico:
         - x
     - **DevOps**: 
         - Federico Sánchez Vidarte
-        - x
+        - Kevin Nahuel Ramírez Murieda
 - **Propósito académico**: Aplicar conocimientos de desarrollo móvil multiplataforma, arquitectura de software y metodologías ágiles.
 - **Metodología de trabajo**: Uso de backlog en Notion, control de versiones en GitHub/GitLab, y acuerdos de equipo documentados.
 
