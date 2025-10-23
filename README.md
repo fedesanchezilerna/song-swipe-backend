@@ -9,7 +9,7 @@ La aplicación integrará la API de Spotify para adaptar la experiencia a los gu
 - **Equipo**: 8 estudiantes del ciclo formativo de grado superior en Desarrollo de Aplicaciones Multiplataforma (ILERNA).
 Cada miembro tendrá asignado un rol específico:
     - **Product Owner**:
-        - x
+        - Biel Ramos Rifà
         - x
     - **Scrum Master**:
         - Kevin Nahuel Ramírez Murieda
@@ -25,7 +25,7 @@ Cada miembro tendrá asignado un rol específico:
         - x
         - x
     - **Backend Developers**:
-        - x
+        - Biel Ramos Rifà
         - x
         - x
     - **DevOps**: 
